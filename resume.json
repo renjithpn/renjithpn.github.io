@@ -1,7 +1,7 @@
 {
-	"name" : "Renjith Narayanan",
+	"name" : "Renjith P. Narayanan",
 	"contact" : "renjith2002@gmail.com",
-	"title" : "Sr. FrontEnd Engineer",
+	"title" : "Sr. Front End Engineer",
 	"objective" : "Looking for a long term association with an organization where individual talents, skills and hard work are acknowledged and to be a valued asset in the organization",
 	"aboutme" : "I'm a software engineer with a particular interest in web technologies (esp. JavaScript,backbone.js). I also do lots of work in react, and formerly Java, and also other languages. I've been doing this professionally for >5 years.",
 	"social" : [
@@ -26,6 +26,9 @@
 		"JavaScript",
 		"Core Java",
 		"JavaEE",
+		"Java Swing",
+		"JSP",
+		"Jboss4.5",
 		"HTML",
 		"CSS",
 		"GIT",
@@ -83,18 +86,32 @@
 	
 	"education" : [
 		{
-			"school" : "Springfield University",
-			"startDate" : "1993",
-			"endDate" : "1993",
-			"program" : "Nuclear Physics",
-			"achievements" : "Ran over dean with car, kidnapped Sir Oinks-a-lot."
+			"school" : "M A College of Engineering , Kothamangalam",
+			"startDate" : "2007",
+			"endDate" : "2010",
+			"program" : "Computer Science",
+			"achievements" : "70.5%."
 		},
 		{
-			"College" : "Springfield University",
-			"startDate" : "1993",
-			"endDate" : "1993",
-			"program" : "Nuclear Physics",
-			"achievements" : "Ran over dean with car, kidnapped Sir Oinks-a-lot."
+			"school" : "St. Thomas College Palai.",
+			"startDate" : "2004",
+			"endDate" : "2007",
+			"program" : "Physics",
+			"achievements" : "80.9%."
+		},
+		{
+			"school" : "S.N. Higher Secondary School Neezhoor.",
+			"startDate" : "2002",
+			"endDate" : "2004",
+			"program" : "Science",
+			"achievements" : "77%."
+		},
+		{
+			"school" : "Technical HighSchool Elanji",
+			"startDate" : "2002",
+			"endDate" : "2002",
+			"program" : "Technical Studies",
+			"achievements" : "85.4%."
 		}
 	]
 }
