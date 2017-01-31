@@ -6,7 +6,7 @@
 	"aboutme" : "I'm a software engineer with a particular interest in web technologies (esp. JavaScript,backbone.js). I also do lots of work in react, and formerly Java, and also other languages. I've been doing this professionally for >5 years.",
 	"social" : [
 		{
-			"link" : "http://www.linkedin.com/in/renjithpn",
+			"link" : "http://www.linkedin.com/in/renjith-p-n-8798ba22",
 			"name" : "LinkedIn"
 		},
 		{
@@ -14,8 +14,12 @@
 			"name" : "twitter"
 		},
 		{
-			"link" : "https://github.com/bittersweetryan/jsonmue",
-			"name" : "this.source"
+			"link" : "https://github.com/renjithpn",
+			"name" : "Git Hub"
+		},
+		{
+			"link" : "http://stackoverflow.com/users/590498/renjith-p-n?tab=profile",
+			"name" : "stackoverflow"
 		}
 	],
 	"skills" : [
