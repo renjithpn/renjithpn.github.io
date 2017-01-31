@@ -1,16 +1,16 @@
 {
-	"name" : "Homer Jay Simpson",
-	"contact" : "chunkylover53@aol.com",
-	"title" : "Safety Inspector",
+	"name" : "Renjith Narayanan",
+	"contact" : "renjith2002@gmail.com",
+	"title" : "Sr. FrontEnd Engineer",
 	"objective" : "To be happy.",
-	"aboutme" : "I love beer, doughnuts, and all things fried.",
+	"aboutme" : "I'm a software engineer with a particular interest in web technologies (esp. JavaScript,backbone.js). I also do lots of work in react, and formerly Java, and also other languages. I've been doing this professionally for >5 years.",
 	"social" : [
 		{
-			"link" : "http://www.linkedin.com/in/homerjsimpson",
+			"link" : "http://www.linkedin.com/in/renjithpn",
 			"name" : "LinkedIn"
 		},
 		{
-			"link" : "https://twitter.com/HomerJSimpson",
+			"link" : "https://twitter.com/renjithpn",
 			"name" : "twitter"
 		},
 		{
