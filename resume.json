@@ -76,10 +76,10 @@
 		{
 			"company" : "Wipro Technologies",
 			"link" : "",
-			"title" : "Safety Inspector",
+			"title" : "Senior Software Engineer",
 			"startDate" : "2011",
 			"endDate" : "Present",
-			"responsibilities" : "Build high quality web applications using JavaScript, Java, ColdFusion for our clients. I also evaluate and educate the development team on new techniques and technologies. High-level application design including technologies, frameworks, and coding practices.",
+			"responsibilities" : "Build high quality web applications using JavaScript and Java for our clients. I also evaluate and educate the development team on new techniques and technologies. High-level application design including technologies, frameworks, and coding practices.",
 			"achievements" : "Introduced unit testing, continuous integration, source control, and development best practices to the team.  Started the Lunch and Learn program where team members teach each other new technologies and techniques. Lead development teams of up to 5 developers on profitable development projects."
 		}
 	],
