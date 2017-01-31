@@ -19,9 +19,16 @@
 		}
 	],
 	"skills" : [
-		"Eating",
-		"Sleeping",
-		"Bowling"
+		"JavaScript",
+		"Core Java",
+		"JavaEE",
+		"Backbone.js",
+		"React.js",
+		"Underscore.js",
+		"requireJS",
+		"Webpack",
+		"Redux",
+		"..."
 	],
 	"frameworks" : [
 		"D'oh! What's a framework?"
