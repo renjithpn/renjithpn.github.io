@@ -88,32 +88,19 @@
 	
 	"education" : [
 		{
-			"school" : "M A College of Engineering , Kothamangalam",
+			"college" : "M A College of Engineering , Kothamangalam",
 			"startDate" : "2007",
 			"endDate" : "2010",
 			"program" : "Computer Science",
 			"achievements" : "70.5%."
 		},
 		{
-			"school" : "St. Thomas College Palai.",
+			"college" : "St. Thomas College Palai.",
 			"startDate" : "2004",
 			"endDate" : "2007",
 			"program" : "Physics",
 			"achievements" : "80.9%."
-		},
-		{
-			"school" : "S.N. Higher Secondary School Neezhoor.",
-			"startDate" : "2002",
-			"endDate" : "2004",
-			"program" : "Science",
-			"achievements" : "77%."
-		},
-		{
-			"school" : "Technical HighSchool Elanji",
-			"startDate" : "2002",
-			"endDate" : "2002",
-			"program" : "Technical Studies",
-			"achievements" : "85.4%."
 		}
+	
 	]
 }
