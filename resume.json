@@ -47,7 +47,9 @@
 		"requireJS",
 		"JQuery",
 		"Webpack",
-		"Redux"
+		"Redux",
+		"Jest",
+		"Enzyme"
 	],
 	"projects" : [
 		{
