@@ -53,6 +53,12 @@
 	],
 	"projects" : [
 		{
+			"name" : "ASDA.com Digital Transformation",
+			"technologies" : "React,Redux, NodeJs, Jest, Enzyme, Webpack, Apache",
+			"description" : "Developed the asda.com single page progressive webapplication using the React, Redux as frontframe work and used Endeca XM as cms"
+		},
+
+		{
 			"name" : "WAL-MART UK GROCERIES",
 			"technologies" : "Java/J2ee, ATG, JavaScript, JQuery, Backbone.js, Oracle DB, Jboss4.5.",
 			"description" : "UKGE is a project to enhance E-commerce Platform for Wal-Mart’s UK subsidiary ASDA. This project is an application development project starting with requirements gathering, application design, application development, testing, implementation and post implementation support. ASDA Groceries E-commerce Site (Green Isle), the site redesign project involves movement of the existing site to an extremely new responsive design to enhance online shopping that suits for wide range of devices."
