@@ -53,7 +53,7 @@
 	],
 	"projects" : [
 		{
-			"name" : "ASDA.com Digital Transformation",
+			"name" : "ASDA.com UK",
 			"technologies" : "React,Redux, NodeJs, Jest, Enzyme, Webpack, Apache",
 			"description" : "Developed the asda.com single page progressive webapplication using the React, Redux as frontframe work and used Endeca XM as cms"
 		},
