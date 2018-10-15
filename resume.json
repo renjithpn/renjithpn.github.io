@@ -49,7 +49,7 @@
 		"Backbone.js",
 		"Underscore.js",
 		"requireJS",
-		"JQuery",
+		"JQuery"
 	],
 	"projects" : [
 		{
