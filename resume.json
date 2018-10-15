@@ -3,7 +3,7 @@
 	"contact" : "renjith2002@gmail.com",
 	"title" : "Sr. Front End Engineer",
 	"objective" : "Looking for a long term association with an organization where individual talents, skills and hard work are acknowledged and to be a valued asset in the organization",
-	"aboutme" : "I'm a senior software engineer with a particular interest in web technologies (esp. JavaScript,react.js,backbone.js and node.js). I also do lots of work in react, and formerly Java, and also other languages. I've been doing this professionally for >5 years.",
+	"aboutme" : "I'm a senior software engineer with a particular interest in web technologies (esp. JavaScript,react.js,backbone.js and node.js). I also do lots of work in react, and formerly Java, and also other languages. I've been doing this professionally for >7 years.",
 	"social" : [
 		{
 			"link" : "http://www.linkedin.com/in/renjith-pn",
@@ -24,6 +24,9 @@
 	],
 	"skills" : [
 		"JavaScript",
+		"JSX",
+		"HTML",
+		"CSS",
 		"Core Java",
 		"JavaEE",
 		"Java Swing",
@@ -33,8 +36,6 @@
 		"REST API",
 		"JSON",
 		"Jboss4.5",
-		"HTML",
-		"CSS",
 		"GIT",
 		"SVN",
 		"JIRA",
@@ -56,6 +57,12 @@
 			"name" : "ASDA.com UK",
 			"technologies" : "React,Redux, NodeJs, Jest, Enzyme, Webpack, Apache",
 			"description" : "Developed the asda.com single page progressive webapplication using the React, Redux as frontframe work and used Endeca XM as cms"
+		},
+		
+		{
+			"name" : "WAL-MART MEXICO",
+			"technologies" : "Java/J2ee, ATG, Oracle DB, SQL, Jboss4.5.",
+			"description" : "This project is to build a brand new webapplication for the groceries site, I was mainly involved in building the account related REST apis  ."
 		},
 
 		{
