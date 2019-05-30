@@ -24,16 +24,14 @@
 	],
 	"skills" : [
 		"JavaScript",
+		"ES6"
 		"JSX",
-		"HTML",
+		"HTML5",
 		"CSS",
 		"Core Java",
 		"JavaEE",
-		"Java Swing",
 		"Apache",
 		"Adobe Analytics",
-		"JSP",
-		"REST API",
 		"JSON",
 		"Jboss4.5",
 		"GIT",
@@ -44,6 +42,7 @@
 	"frameworks" : [
 		"React.js",
 		"Redux",
+		"Redux-saga",
 		"Webpack",
 		"Jest",
 		"Enzyme",
