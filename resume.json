@@ -54,6 +54,11 @@
 	],
 	"projects" : [
 		{
+			"name" : "Walmart US, GDP portal",
+			"technologies" : "React,Redux, Redux Saga, Material UI, amcharts, NodeJs, Jest, Enzyme, Webpack",
+			"description" : ""
+		},
+		{
 			"name" : "ASDA.com UK",
 			"technologies" : "React,Redux, NodeJs, Jest, Enzyme, Webpack, Apache",
 			"description" : "Developed the asda.com single page progressive webapplication using the React, Redux as frontframe work and used Endeca XM as cms"
